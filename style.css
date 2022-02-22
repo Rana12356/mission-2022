@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -56,15 +57,22 @@ h3{
 #box-3{
     background-color: lightblue;
 }
-.container{
+.develop-limit-container{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 20%;
 }
-.global-community{
+.global-community-container{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 15%;
+    margin: 10px;
+}
+.feedback-section{
+    color: black;
+    height: 200px;
+    text-align: center;
+    padding-top: 20px;
 }
