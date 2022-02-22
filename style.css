@@ -34,6 +34,9 @@ h3{
     color: white;
     font-weight: 700;
 }
+#scroll-down{
+    margin-top: 40px;
+}
 .box-container{
     display: flex;
 }
