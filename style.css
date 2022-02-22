@@ -76,3 +76,13 @@ h3{
     text-align: center;
     padding-top: 20px;
 }
+footer{
+    height: 150px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+}
+.footer-color{
+    color: tomato;
+}
