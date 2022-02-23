@@ -12,6 +12,11 @@ h2{
 h3{
     font-size: 30px;
 }
+#line{
+    border-left: 4px solid tomato;
+    border-image-slice: 1;
+    padding: 10px;
+}
 .color-change{
     color: orange;
 }
